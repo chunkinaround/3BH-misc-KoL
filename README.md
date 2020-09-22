@@ -5,7 +5,7 @@ Miscellaneaous ash scripts that people might find useful? Im not posting all the
 requires consume.ash. Looks up what it takes to make something and makes it if its less than 15K to make. I used it when filling out some green boxen.
 
 ## 3BH daily
-requires VMF, autoscend, Dics library from his pastebin and aens utilities from his optimal meatfarming script
+requires VMF, autoscend, Dics library from his pastebin, and aens utilities from his optimal meatfarming script.
 Its my breakfast script. 
 
 ## 3BHfreefights 
